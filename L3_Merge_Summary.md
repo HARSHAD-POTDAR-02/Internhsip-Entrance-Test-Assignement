@@ -117,3 +117,6 @@ DATABASE_URL="postgreSQL URL link here"
 
 All steps for the L3 merge, conflict resolution, environment setup, and validation have been completed for the MCP Chat project.
 
+![Screenshot 2025-06-27 194920](https://github.com/user-attachments/assets/78092483-6fa9-4285-b0e8-e82aa4f75eea)
+![Screenshot 2025-06-27 194905](https://github.com/user-attachments/assets/9afad4be-3ac3-4c52-b01f-480faea1e6d2)
+
